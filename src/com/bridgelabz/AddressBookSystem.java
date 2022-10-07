@@ -9,7 +9,7 @@ public class AddressBookSystem
         System.out.println("*                                Address Book System                               *");
         System.out.println("************************************************************************************");
 
-        Contact object = new Contact("Sanket","More","Deopur Dhule","Dhule","Maharastra","424005","8180019348","sanketmore.999.m@gmail.com");
+        Contact object = new Contact("Jay","Borse","Deopur Dhule","Dhule","Maharastra","424005","8422982261","hborse1@gmail.com");
 
         object.viewData();
     }
