@@ -32,7 +32,7 @@ public class MainClass
             System.out.println("|----------------------------------|");
             System.out.print("Enter Your Choice:-");
 
-            int option =  sc.nextInt();
+            int option = sc.nextInt();
             switch(option)
             {
                 case 1:
