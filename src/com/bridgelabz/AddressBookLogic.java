@@ -13,7 +13,7 @@ public class AddressBookLogic implements BookInterface
     //}
     public AddressBook newBook()
     {
-        AddressBook newBook = new AddressBook();
+        AddressBook newBook = new AddressBook() ;
 
 
         System.out.println("Enter the First Name");
